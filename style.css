@@ -1,0 +1,30 @@
+body {
+    background-color: bisque;
+    text-align: center;
+    font-family: 'Frank', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+    padding: 30px;
+}
+button {
+    padding: 8px;
+    border-radius: 13px;
+    cursor: pointer;
+}
+button img {
+    display: block;
+    width: 250px;
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+h1 {
+    font-family: sans-serif;
+    font-size: 55px;
+    color: black;
+    background-color: salmon;
+    border-radius: 20px;
+    height: 140px;
+    margin: 55px;
+    padding: 20px;
+    text-align: center;
+}
